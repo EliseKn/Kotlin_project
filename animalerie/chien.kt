@@ -7,5 +7,4 @@ class Chien : Animal {
     override fun quiSuisJe() {
         println("je suis un chien")
     }
-
 }

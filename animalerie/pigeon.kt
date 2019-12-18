@@ -7,5 +7,4 @@ class Pigeon : Animal {
     override fun quiSuisJe() {
         println("je suis un pigeon")
     }
-
 }
